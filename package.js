@@ -1,7 +1,8 @@
 Package.describe({
     name: 'apotex:modal',
     version: '0.0.1',
-    summary: 'One more implementation of Bootstrap Modals.'
+    summary: 'One more implementation of Bootstrap Modals.',
+    git: 'https://github.com/apotex/modal.git'
 });
 
 Package.onUse(function(api) {
